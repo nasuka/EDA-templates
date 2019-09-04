@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+jupyter = "*"
+matplotlib = "*"
+seaborn = "*"
+plotly = "*"
+jupyter-contrib-nbextensions = "*"
+jupytext = "*"
+
+[requires]
+python_version = "3.7"
